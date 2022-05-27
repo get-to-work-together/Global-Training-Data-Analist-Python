@@ -1,0 +1,16 @@
+# Marked Directories with _
+_*/
+
+# R studio
+.RData
+.Rhistory
+.Rproj.user
+
+# Visual Studio
+*.code-workspace
+
+# Microsoft Powerpoint
+**/*.pptx
+
+# Mac OS
+**/.DS_Store
